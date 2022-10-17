@@ -1,3 +1,5 @@
-<p align="center"><h1>Welcome!</h1></p>
+<p>
+	<h1 align="center">Welcome!</h1>
+</p>
 
 ## Welcome!
